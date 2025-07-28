@@ -62,9 +62,6 @@ Retorna estatísticas baseadas nas transações dos últimos 60 segundos.
 
 Resposta JSON:
 
-json
-Copiar
-Editar
 {
   "count": 3,
   "sum": 250.0,
@@ -75,9 +72,7 @@ Editar
 Caso não haja transações no período, os valores retornam como 0.
 
 📁 Estrutura de Pastas
-bash
-Copiar
-Editar
+
 src/
 ├── main/
 │   ├── java/desafio/itau/springboot/
